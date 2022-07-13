@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImKool-Gitch
 - 👀 I’m interested in cybersecurity, programming
-- 🌱 I’m currently learning programming and cybersecurity
+- 🌱 I’m currently learning programming
 - 📫 How to reach me jameswilliams15253@gmail.com
 
 <!---
