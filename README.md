@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ImKool-Gitch
 - 👀 I’m interested in cybersecurity, programming, malware development and explotation
-- 🌱 Languages i’m currently learning and know:
-https://www.cprogramming.com/ https://www.cplusplus.com/
+- 🌱 I’m currently learning C & C++
 
 - 📫 How to reach me jameswilliams15253@gmail.com
 
